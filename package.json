@@ -1,0 +1,17 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "description": "My First APi",
+  "main": "index.js",
+  "author": "Carol Cedro",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
